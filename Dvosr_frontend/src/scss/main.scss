@@ -1,0 +1,15 @@
+.v-application--wrap {
+  min-height: fit-content;
+  min-height: 100% !important;
+}
+
+.v-menu__content {
+  margin-top: 2px !important ;
+  border-top-left-radius: 21px !important;
+}
+.v-overlay {
+  min-height: 100vh;
+}
+.v-navigation-drawer {
+  min-height: 100vh;
+}
